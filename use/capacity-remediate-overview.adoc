@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: O serviço de Planejamento de capacidade de eficiência econômica da NetApp BlueXP  usa a AI para prever o crescimento dos dados e ajudar no processo de Planejamento. 
+---
+= Revise e corrija problemas de capacidade
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+O Planejamento de capacidade envolve a identificação de áreas de baixa capacidade no seu ambiente, atuais e previstas. A eficiência econômica da BlueXP  usa a AI para prever o crescimento dos dados e ajudar no processo de Planejamento. O serviço de eficiência econômica identifica as áreas de baixa capacidade em seu ambiente.
+
+Usando a eficiência econômica do BlueXP , você pode alcançar esses objetivos:
+
+* link:../use/capacity-review-status.html["Revisar o status do Planejamento de capacidade"]
+* link:../use/capacity-tier-data.html["Armazene dados inativos no storage de nuvem e libere o storage"]
+* link:../use/capacity-reminders.html["Selecione sem ação e defina lembretes para verificar novamente"]
+

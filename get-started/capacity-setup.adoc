@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Para usar a eficiência econômica do BlueXP , execute algumas etapas para configurá-la. 
+---
+= Configure a eficiência econômica da BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Para usar a eficiência econômica do BlueXP , execute algumas etapas para configurá-la.
+
+* Revise link:../get-started/prerequisites.html["pré-requisitos"] para garantir que seu ambiente esteja pronto.
+* Crie um conetor no BlueXP .
+* Descubra o cluster no BlueXP .
+
+
+Você pode criar um conetor diretamente no BlueXP  e usar esse conetor mais tarde na eficiência econômica do BlueXP . Ou você pode criar o conetor no meio do processo de remediação de capacidade.
+
+Da mesma forma, você descobre o cluster com antecedência usando o BlueXP  ou durante o processo de correção de capacidade.
+
+
+
+== Crie um conetor no BlueXP
+
+Um conetor BlueXP  inclui credenciais para máquinas NetApp ONTAP.
+
+Para criar um conetor no BlueXP  antes de usar o serviço, consulte a documentação do BlueXP  que descreve https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["como criar um conetor"^]o .
+
+
+
+== Descubra o cluster no BlueXP
+
+Parte da configuração envolve a identificação do nome do cluster, IP, nome de usuário e senha no BlueXP .
+
+Para obter instruções antes de utilizar o serviço, https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Descubra clusters ONTAP no local"^] consulte a .

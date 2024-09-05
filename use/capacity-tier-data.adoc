@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: O serviço de eficiência econômica da BlueXP  fornece recomendações com base no crescimento previsto de dados. Você pode aceitar a previsão ou inserir sua própria previsão. Com base nisso, o serviço apresenta recomendações que satisfazem o crescimento da capacidade projetada e são ideais para a configuração de ativos. Uma das recomendações pode ser categorizar dados inativos no storage de nuvem para liberar capacidade. Esta recomendação inicia a conexão com a disposição em camadas do BlueXP , outro serviço do BlueXP . 
+---
+= Armazene dados inativos no storage de nuvem e libere o storage
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+A eficiência econômica da BlueXP  fornece recomendações com base no crescimento previsto de dados. Você pode aceitar a previsão ou inserir sua própria previsão. Com base nisso, o serviço apresenta recomendações que atendem ao crescimento de capacidade projetado e são ideais para a configuração de ativos de storage. Uma das recomendações pode ser categorizar dados inativos no storage de nuvem para liberar capacidade. Esta recomendação inicia a conexão com a disposição em camadas do NetApp BlueXP , outro serviço do BlueXP .
+
+A partir daí, você pode categorizar os dados e retornar facilmente à eficiência econômica da BlueXP  para agir em outros sistemas.
+
+O processo de disposição em camadas na nuvem inclui estes processos:
+
+* Implante um conetor
+* Descubra o cluster
+* Configurar a disposição em camadas na nuvem
+
+
+.Passos
+. A partir da navegação à esquerda do BlueXP , selecione *Governança* > *eficiência econômica* > *Planejamento de capacidade*.
+. Selecione *avaliar Opções de armazenamento* para o ativo.
+. Selecione *Tier Cold Data*.
+. As próximas etapas dependem se você já tem um conetor BlueXP  implantado e o cluster foi descoberto:
++
+** Se for necessário implantar o BlueXP  Connector, consulte a documentação do BlueXP  que descreve https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Como criar um conetor"^]o . Caso contrário, se você já implantou o conetor, a opção de implantar o conetor não será exibida.
+** Se o serviço precisar descobrir o cluster, https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Descubra clusters ONTAP no local"^] consulte . Caso contrário, se o cluster já tiver sido descoberto, a opção de descobrir o cluster não será exibida.
+
+
++
+A eficiência econômica da BlueXP  inicia a conexão com o serviço de disposição em camadas da BlueXP .
+
+. Selecione *Adicionar conetor*.
+. Escolha um provedor de nuvem e selecione *continuar*.
+. Selecione *Continue* ou *Skip to Deployment*.
++
+Depois de implantar um conetor, o BlueXP  Tiering descobre o cluster, se ainda não for descoberto.
+
+. Depois que o cluster for descoberto, configure a disposição em camadas.
++
+Para obter detalhes sobre a disposição em camadas, https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentação de disposição em camadas do BlueXP"^] consulte .
+
+

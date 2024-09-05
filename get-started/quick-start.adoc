@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
+summary: Comece a usar o serviço de eficiência econômica da NetApp BlueXP  em poucos passos. 
+---
+= Início rápido para a eficiência econômica da BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Aqui está uma visão geral das etapas necessárias para começar a usar a eficiência econômica da BlueXP . Os links em cada etapa levam você a uma página que fornece mais detalhes.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Um"] Reveja os pré-requisitos
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["Certifique-se de que seu ambiente atenda a esses requisitos"].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Dois"] Configurar o serviço de eficiência económica
+[role="quick-margin-para"]
+link:../get-started/capacity-setup.html["Conclua as etapas para configurar o serviço"].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Três"] O que se segue?
+[role="quick-margin-para"]
+Depois de configurar o serviço, aqui está o que você pode fazer a seguir.
+
+[role="quick-margin-list"]
+* link:../use/capacity-review-status.html["Revisar o status do Planejamento de capacidade"].
+* link:../use/capacity-tier-data.html["Armazene dados inativos no storage de nuvem para liberar o storage"].
+* link:../use/capacity-reminders.html["Opcionalmente, defina lembretes para verificar novamente"].
+

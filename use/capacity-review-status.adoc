@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
+summary: 'Se os clusters estiverem abaixo ou se forem projetados para estarem abaixo do limite de 70% de capacidade, o serviço de eficiência econômica os identificará como recursos de baixa capacidade e avisará você.' 
+---
+= Revisar o status do Planejamento de capacidade
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se os ativos de storage em seu ambiente estiverem abaixo ou se forem projetados para estarem abaixo do limite de 90% de capacidade, o serviço de eficiência econômica os identificará como recursos de baixa capacidade e avisará você. Além disso, o serviço de eficiência econômica fornece recomendações sobre se você deve categorizar dados.
+
+Você pode analisar os seguintes tipos de dados para ajudar na resolução do problema de capacidade.
+
+* Plataforma
+* País onde o ativo está localizado
+* Capacidade atual e prevista por mês
+
+
+.Passos
+. A partir da navegação à esquerda do BlueXP , selecione *Governança* > *eficiência econômica* > *Planejamento de capacidade*.
+. Selecione *avaliar Opções de armazenamento* para o ativo.
+. Escolha uma das opções:
++
+** *Melhores práticas*: Continue clicando no link para ver as melhores práticas.
+** *Tier cold data*: Continue até link:../use/capacity-tier-data.html["disposição em camadas de dados pouco acessados no storage de nuvem e liberando storage"].
+** *Nenhuma ação necessária*: Continue até link:../use/capacity-reminders.html["selecionar nenhuma ação e definir lembretes para verificar novamente"].
+
+
+

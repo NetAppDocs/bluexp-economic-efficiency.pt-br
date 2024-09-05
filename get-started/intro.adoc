@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast 
+summary: O serviço de eficiência econômica do BlueXP  identifica clusters com baixa capacidade atual ou prevista, e fornece recomendações sobre disposição de dados em categorias. 
+---
+= Saiba mais sobre a eficiência econômica da BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+A eficiência econômica da BlueXP  avalia seus ativos de storage com baixa capacidade atual ou prevista. O serviço fornece recomendações sobre opções de categorização de dados que atendem às necessidades da sua empresa.
+
+A eficiência econômica da BlueXP  pode ajudá-lo a alcançar os seguintes objetivos.
+
+* Planejamento de capacidade*
+
+* Identifique ativos de storage em seu ambiente que estejam mostrando baixa capacidade.
+* Analisar ativos para capacidade atual e prevista.
+
+
+
+
+== Benefícios da eficiência econômica do BlueXP 
+
+A eficiência econômica da BlueXP  oferece os seguintes benefícios:
+
+* Identifica sistemas que estão se aproximando de eventos de ciclo de vida para ajudá-lo a Planejar uma atualização de tecnologia
+* Oferece recomendações de um consultor confiável para solucionar problemas de capacidade em seu ambiente
+* Reduz o tempo gasto no Planejamento para armazenamento adicional
+
+
+
+
+== Custo
+
+A NetApp não cobra pelo uso do serviço.
+
+Se você decidir categorizar dados inativos no storage de nuvem, precisará verificar o seu fornecedor de nuvem quanto aos custos aplicáveis.
+
+
+
+== Acesso
+
+Pode aceder a esta funcionalidade através da eficiência económica da BlueXP  (*governação* > *eficiência económica* > *Atualização técnica*) ou através do consultor digital da NetApp (*Painel* > *widget de planeamento* > *Atualização técnica*).

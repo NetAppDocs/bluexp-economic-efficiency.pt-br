@@ -1,0 +1,48 @@
+---
+indexpage:
+  title: Documentação de eficiência econômica da BlueXP 
+  summary: O serviço de eficiência econômica do BlueXP  identifica clusters com baixa
+    capacidade atual ou prevista, e fornece recomendações sobre disposição de dados
+    em categorias.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life
+  lead: O serviço de eficiência econômica do BlueXP  identifica clusters com baixa
+    capacidade atual ou prevista, e fornece recomendações sobre disposição de dados
+    em categorias.
+  tiles:
+  - title: Comece agora
+    links:
+    - title: Saiba mais sobre a eficiência econômica da BlueXP 
+      url: "/get-started/intro.html"
+    - title: O que há de novo na eficiência econômica de BlueXP 
+      url: "/release-notes/whats-new.html"
+    - title: Início rápido
+      url: "/get-started/quick-start.html"
+    - title: Pré-requisitos
+      url: "/get-started/prerequisites.html"
+    - title: Faça login na eficiência econômica da BlueXP 
+      url: "/get-started/capacity-login.html"
+    - title: FAQ
+      url: "/get-started/faq.html"
+  - title: Use a eficiência econômica do BlueXP
+    links:
+    - title: Obtenha uma avaliação de atualização técnica
+      url: "/use/tech-refresh.html"
+    - title: Revise e corrija problemas de capacidade
+      url: "/use/capacity-remediate-overview.html"
+    - title: Revisar o status da capacidade
+      url: "/use/capacity-review-status.html"
+    - title: Adicionar capacidade
+      url: "/use/capacity-add.html"
+    - title: Armazene dados inativos no storage de nuvem
+      url: "/use/capacity-tier-data.html"
+    - title: Defina lembretes para verificar novamente
+      url: "/use/capacity-reminders.html"
+  - title: Blogs & comunidade
+    links:
+    - title: Comunidade NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Blog Cloud Tiering
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Webinars na nuvem
+      url: https://bluexp.netapp.com/events

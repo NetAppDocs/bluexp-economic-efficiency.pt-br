@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: Em vez de adicionar capacidade ou categorizar dados inativos, você pode escolher nenhuma ação necessária neste momento e definir lembretes para você mesmo verificar novamente após 30, 60 ou 90 dias. 
+---
+= Defina lembretes para verificar novamente
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Em vez de adicionar capacidade ou categorizar dados inativos, você pode escolher nenhuma ação necessária neste momento e definir lembretes para você mesmo verificar novamente após 30, 60 ou 90 dias.
+
+.Passos
+. A partir da navegação à esquerda do BlueXP , selecione *Governança* > *eficiência econômica* > *Planejamento de capacidade*.
+. Selecione *avaliar Opções de armazenamento* para o ativo.
+. Selecione *Nenhuma ação necessária*.
+. Escolha quando você deseja ser notificado novamente sobre um potencial problema de baixa capacidade: 30, 60 ou 90 dias.
+. Selecione *Guardar*.
+
+
+.Resultado
+Após esse tempo decorrido, o risco aparece novamente na lista de riscos.

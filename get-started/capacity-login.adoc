@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-login.html 
+keywords: bluexp login, capacity planning log in 
+summary: Comece a usar a eficiência econômica do BlueXP  acessando o serviço no BlueXP . 
+---
+= Acesse a eficiência econômica do BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Você usa o NetApp BlueXP  para fazer login no serviço de eficiência econômica.
+
+Para fazer login no BlueXP , você pode usar as credenciais do site de suporte da NetApp ou se inscrever para fazer login na nuvem do NetApp usando seu e-mail e uma senha. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Saiba mais sobre como fazer login"^].
+
+
+TIP: Pode aceder a esta funcionalidade através da eficiência económica da BlueXP  (*governação* > *eficiência económica* > *Atualização técnica*) ou através do consultor digital da NetApp (*Painel* > *widget de planeamento* > *Atualização técnica*).
+
+.Passos
+. Abra um navegador da Web e vá para o https://console.bluexp.netapp.com/["Consola BlueXP"^].
++
+É apresentada a página de início de sessão do NetApp BlueXP .
+
+. Inicie sessão no BlueXP .
+. Na navegação à esquerda do BlueXP , selecione *Governança* > *eficiência econômica*.
+
