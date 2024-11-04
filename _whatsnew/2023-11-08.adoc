@@ -1,0 +1,9 @@
+= Atualização de tecnologia
+:allow-uri-read: 
+
+
+
+
+=== Atualização de tecnologia
+
+Esta versão da eficiência econômica do BlueXP  inclui uma nova opção para fazer uma avaliação de seus ativos e identificar se uma atualização de tecnologia é recomendada. O serviço inclui uma nova opção de atualização técnica na navegação à esquerda, novas páginas onde você pode fazer uma avaliação de suas cargas de trabalho e ativos atuais e um relatório que fornece recomendações para você.

@@ -18,6 +18,10 @@ Saiba o que há de novo na eficiência econômica da BlueXP .
 
 == 15 de maio de 2024
 
+
+
+=== Funcionalidades desativadas
+
 Alguns recursos de eficiência econômica do BlueXP  foram temporariamente desativados:
 
 * Atualização de tecnologia
@@ -28,6 +32,10 @@ Alguns recursos de eficiência econômica do BlueXP  foram temporariamente desa
 
 == 14 de março de 2024
 
+
+
+=== Opções de atualização de tecnologia
+
 Se você tiver ativos existentes e quiser determinar se uma tecnologia precisa ser atualizada, use as opções de atualização da tecnologia de eficiência econômica da BlueXP . Você pode analisar uma breve avaliação de suas cargas de trabalho atuais e obter recomendações ou, se você enviou logs do AutoSupport para o NetApp nos últimos 90 dias, o serviço agora pode fornecer uma simulação de workload para ver como suas cargas de trabalho funcionam no novo hardware.
 
 Você também pode adicionar um workload e excluir cargas de trabalho existentes da simulação.
@@ -36,17 +44,25 @@ Anteriormente, você só poderia fazer uma avaliação de seus ativos e identifi
 
 O recurso agora faz parte da opção de atualização técnica na navegação à esquerda.
 
-Saiba mais sobre o link:../use/tech-refresh.html["Avalie uma atualização de tecnologia"].
+Saiba mais sobre o https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["Avalie uma atualização de tecnologia"].
 
 
 
 == 08 de novembro de 2023
+
+
+
+=== Atualização de tecnologia
 
 Esta versão da eficiência econômica do BlueXP  inclui uma nova opção para fazer uma avaliação de seus ativos e identificar se uma atualização de tecnologia é recomendada. O serviço inclui uma nova opção de atualização técnica na navegação à esquerda, novas páginas onde você pode fazer uma avaliação de suas cargas de trabalho e ativos atuais e um relatório que fornece recomendações para você.
 
 
 
 == 02 de abril de 2023
+
+
+
+=== Apresentamos a eficiência econômica do BlueXP 
 
 O novo serviço de eficiência econômica da BlueXP  identifica ativos de storage com baixa capacidade atual ou prevista, e fornece recomendações sobre disposição de dados em camadas ou capacidade adicional para sistemas AFF no local.
 

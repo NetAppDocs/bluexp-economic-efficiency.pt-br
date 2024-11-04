@@ -118,7 +118,6 @@
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">Anteriormente, você só poderia fazer uma avaliação de seus ativos e identificar se uma atualização de tecnologia é recomendada.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">O recurso agora faz parte da opção de atualização técnica na navegação à esquerda.</block>
   <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="inline-link-macro">Avalie uma atualização de tecnologia</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Saiba mais sobre o <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
   <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">08 de novembro de 2023</block>
   <block id="c4cd570753ca79cf809d24d7723c0e82" category="paragraph">Esta versão da eficiência econômica do BlueXP  inclui uma nova opção para fazer uma avaliação de seus ativos e identificar se uma atualização de tecnologia é recomendada. O serviço inclui uma nova opção de atualização técnica na navegação à esquerda, novas páginas onde você pode fazer uma avaliação de suas cargas de trabalho e ativos atuais e um relatório que fornece recomendações para você.</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 de abril de 2023</block>
@@ -458,4 +457,8 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de lançamento</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conhecimento e apoio</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">Opções de atualização de tecnologia</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">Saiba mais sobre o<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>.</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">Funcionalidades desativadas</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">Apresentamos a eficiência econômica do BlueXP </block>
 </blocks>
