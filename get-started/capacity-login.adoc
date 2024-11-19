@@ -17,7 +17,7 @@ Você usa o NetApp BlueXP  para fazer login no serviço de eficiência econômi
 Para fazer login no BlueXP , você pode usar as credenciais do site de suporte da NetApp ou se inscrever para fazer login na nuvem do NetApp usando seu e-mail e uma senha. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Saiba mais sobre como fazer login"^].
 
 
-TIP: Pode aceder a esta funcionalidade através da eficiência económica da BlueXP  (*governação* > *eficiência económica* > *Atualização técnica*) ou através do consultor digital da NetApp (*Painel* > *widget de planeamento* > *Atualização técnica*).
+TIP: Pode aceder a esta funcionalidade através da eficiência económica da BlueXP  (*governação* > *eficiência económica* > *Atualização técnica*) ou através do consultor digital (*Painel* > *widget de planeamento* > *Atualização técnica*).
 
 .Passos
 . Abra um navegador da Web e vá para o https://console.bluexp.netapp.com/["Consola BlueXP"^].
